@@ -1,0 +1,53 @@
+# Welcome to the Wild Safari Zoo
+
+## Introduction
+Welcome to the **Wild Safari Zoo**! This Markdown document describes the incredible wildlife you can encounter at our zoo. From majestic lions to colorful parrots, we've got it all.
+
+## Animals
+### Mammals
+| Animal        | Description                                         |
+|---------------|-----------------------------------------------------|
+| Lions         | Known for their majestic manes and powerful roars. |
+| Elephants     | The gentle giants of the savanna.                  |
+| Giraffes      | With long necks, they reach for the leaves.        |
+
+### Birds
+| Animal        | Description                                         |
+|---------------|-----------------------------------------------------|
+| Parrots       | We have a variety of parrots, including the striking **Scarlet Macaw**. |
+| Eagles        | Their keen eyesight allows them to spot prey from great heights.   |
+| Flamingos     | Their pink plumage is a sight to behold in our wetland habitat.    |
+
+### Reptiles
+| Animal        | Description                                         |
+|---------------|-----------------------------------------------------|
+| Snakes        | You can witness the grace of the **Ball Python** in our reptile enclosure. |
+| Turtles       | They move slowly but have been around for millions of years.           |
+| Crocodiles    | Ancient predators lurking in our aquatic habitat.                       |
+
+## Feeding Schedule
+Here's the feeding schedule for some of our animals:
+- **Lions**: Fed twice a day, early morning and late afternoon.
+- **Parrots**: Provided fresh fruits and nuts every morning.
+- **Snakes**: Fed once a week, usually in the evening.
+
+## Events
+### Upcoming Shows
+- **Lion Roaring Contest**: Join us every Friday at 3 PM for an amazing lion roaring contest.
+- **Parrot Showcase**: On weekends, our colorful parrots will dazzle you with their talents.
+
+### Marquee
+<marquee behavior="scroll" direction="left">
+    Don't miss our daily **Birds of Prey** show at 2 PM!
+</marquee>
+
+## Zoo Map
+We have a detailed zoo map to help you navigate the zoo. You can find it [here](https://www.example.com/zoo-map).
+
+## Contact Information
+If you have any questions or would like to plan a visit, feel free to contact us at [zoo@example.com](mailto:zoo@example.com).
+
+## Conclusion
+We hope you enjoy your visit to the **Wild Safari Zoo** and have a wild adventure exploring the diverse wildlife we have to offer.
+
+> "The greatness of a nation can be judged by the way its animals are treated." – Mahatma Gandhi
